@@ -12,6 +12,6 @@ public class BaseBean {
     private String upateUser;
     private String updateTime;
 
-    @ApiModelProperty(notes = "逻辑删除位，标识是否删除")
+    @ApiModelProperty(value = "逻辑删除位，标识是否删除")
     private int deleteFlag;
 }

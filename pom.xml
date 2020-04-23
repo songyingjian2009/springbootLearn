@@ -52,6 +52,22 @@
             <version>2.8.0</version>
         </dependency>
 
+        <!--  MyBatisPlus-->
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus-boot-starter</artifactId>
+            <version>3.3.1.tmp</version>
+        </dependency>
+
+
+        <!--        mysql:mysql-connector-java:8.0.19-->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.19</version>
+        </dependency>
+
+
     </dependencies>
 
     <build>
